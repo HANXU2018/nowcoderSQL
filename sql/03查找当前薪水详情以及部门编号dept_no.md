@@ -35,7 +35,7 @@ PRIMARY KEY (`emp_no`,`from_date`));
 - (SQL 3.7.9)
 - 符合MySQL5.7语法规范
 - 知识点
-  - 过滤
+  - 连接
 
 ```
 SELECT s.emp_no	,s.salary,s.from_date,s.to_date,d.dept_no
